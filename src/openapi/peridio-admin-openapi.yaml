@@ -4550,6 +4550,14 @@ components:
                   $ref: "#/components/schemas/device-event-certificate"
                 ca_certificate:
                   $ref: "#/components/schemas/device-event-ca-certificate"
+                route:
+                  type: string
+                  description: |
+                    The URL route where the device connected
+
+                    This could be either `/socket/websocket` for websocket connections
+                    or an URL path of the Device API
+                  example: /socket/websocket
                 headers:
                   description: |
                     Monitored headers that a device supplies during connection will be recorded in this array.
