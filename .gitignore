@@ -28,3 +28,7 @@ package-lock.json
 screenshots/
 spec-sheets/
 vibe/
+
+# Cursor IDE configuration (local only)
+.cursorrules
+.cursor/settings.json

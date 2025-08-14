@@ -160,7 +160,7 @@ export default function RubikPiSolution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/factory-quality-inspection.png"
+                src="/img/use-cases/factory-quality-inspection.png"
                 alt="Autonomous Mobile Robots"
                 className={styles.useCaseImage}
               />
@@ -172,7 +172,7 @@ export default function RubikPiSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/environmental-inspection.png"
+                src="/img/use-cases/environmental-inspection.png"
                 alt="Smart Security Cameras"
                 className={styles.useCaseImage}
               />
@@ -184,7 +184,7 @@ export default function RubikPiSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/see-and-spray.png"
+                src="/img/use-cases/see-and-spray.png"
                 alt="Industrial IoT Gateways"
                 className={styles.useCaseImage}
               />

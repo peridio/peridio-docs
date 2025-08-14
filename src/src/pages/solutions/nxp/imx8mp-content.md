@@ -30,7 +30,7 @@ Production-ready industrial IoT and vision systems with 2.3 TOPS NPU, dual camer
 
 ## Industrial Use Cases
 
-### Smart Industrial Camera
+### Industrial Smart Cameras
 Dual-camera stereo vision with real-time inference for defect detection and classification. NPU accelerates ResNet/YOLO models at the edge.
 
 ### Autonomous Inspection System

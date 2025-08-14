@@ -104,7 +104,7 @@ export default function FRDM93Solution() {
             </div>
             <div className={styles.heroImage}>
               <img
-                src="/img/nxp-frdm-93.jpg"
+                src="/img/hardware/nxp/NXP-FRDM-MCXN947.png"
                 alt="NXP FRDM-MCXN947 development board"
                 className={styles.productImage}
               />
@@ -163,7 +163,7 @@ export default function FRDM93Solution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/factory-quality-inspection.png"
+                src="/img/use-cases/industrial-sensor-hub.png"
                 alt="Industrial Sensor Hub"
                 className={styles.useCaseImage}
               />
@@ -175,7 +175,7 @@ export default function FRDM93Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/environmental-inspection.png"
+                src="/img/use-cases/motor-control-systems.png"
                 alt="Motor Control Systems"
                 className={styles.useCaseImage}
               />
@@ -187,7 +187,7 @@ export default function FRDM93Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/workplace-safety.png"
+                src="/img/use-cases/edge-iot-gateway.png"
                 alt="Secure IoT Gateway"
                 className={styles.useCaseImage}
               />

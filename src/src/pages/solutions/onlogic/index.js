@@ -101,7 +101,7 @@ export default function FR201Solution() {
             </div>
             <div className={styles.heroImage}>
               <img
-                src="/img/onlogic-fr201.jpg"
+                src="/img/hardware/onlogic/OnLogic-FR201.png"
                 alt="OnLogic FR201 fanless industrial PC"
                 className={styles.productImage}
               />
@@ -160,7 +160,7 @@ export default function FR201Solution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/factory-quality-inspection.png"
+                src="/img/use-cases/edge-iot-gateway.png"
                 alt="Factory Edge Gateway"
                 className={styles.useCaseImage}
               />
@@ -172,7 +172,7 @@ export default function FR201Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/environmental-inspection.png"
+                src="/img/use-cases/ml-inference-server.png"
                 alt="Machine Learning Inference"
                 className={styles.useCaseImage}
               />
@@ -184,7 +184,7 @@ export default function FR201Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/traffic-flow-optimization.png"
+                src="/img/use-cases/traffic-flow-optimization.png"
                 alt="Transportation Systems"
                 className={styles.useCaseImage}
               />

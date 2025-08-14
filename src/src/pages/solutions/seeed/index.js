@@ -101,7 +101,7 @@ export default function ReTerminalSolution() {
             </div>
             <div className={styles.heroImage}>
               <img
-                src="/img/seeed-reterminal.jpg"
+                src="/img/hardware/seeed/seeed_reterminal.png"
                 alt="Seeed reTerminal industrial HMI"
                 className={styles.productImage}
               />
@@ -160,7 +160,7 @@ export default function ReTerminalSolution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/industrial-hmi.png"
+                src="/img/use-cases/machine-control-interface.png"
                 alt="Industrial HMI"
                 className={styles.useCaseImage}
               />
@@ -172,7 +172,7 @@ export default function ReTerminalSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/building-automation.png"
+                src="/img/use-cases/building-automation.png"
                 alt="Building Automation"
                 className={styles.useCaseImage}
               />
@@ -184,7 +184,7 @@ export default function ReTerminalSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/iot-gateway.png"
+                src="/img/use-cases/edge-iot-gateway.png"
                 alt="IoT Gateway"
                 className={styles.useCaseImage}
               />

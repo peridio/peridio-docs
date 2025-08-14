@@ -163,11 +163,11 @@ export default function IMX8MPSolution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/factory-quality-inspection.png"
-                alt="Smart Industrial Camera"
+                src="/img/use-cases/industrial-smart-cameras.png"
+                alt="Industrial Smart Cameras"
                 className={styles.useCaseImage}
               />
-              <Heading as="h3">Smart Industrial Camera</Heading>
+                              <Heading as="h3">Industrial Smart Cameras</Heading>
               <p>
                 Dual-camera stereo vision with real-time inference for defect detection and
                 classification. NPU accelerates ResNet/YOLO models at the edge.
@@ -175,7 +175,7 @@ export default function IMX8MPSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/environmental-inspection.png"
+                src="/img/use-cases/workplace-safety.png"
                 alt="Autonomous Inspection System"
                 className={styles.useCaseImage}
               />
@@ -187,7 +187,7 @@ export default function IMX8MPSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/workplace-safety.png"
+                src="/img/use-cases/voice-controlled-industrial-gateway.png"
                 alt="Voice-Controlled Gateway"
                 className={styles.useCaseImage}
               />

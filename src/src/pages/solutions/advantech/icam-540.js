@@ -101,7 +101,7 @@ export default function ICAM540Solution() {
             </div>
             <div className={styles.heroImage}>
               <img
-                src="/img/advantech-icam-540.jpg"
+                src="/img/hardware/advantech/advantech-icam540.png"
                 alt="Advantech ICAM-540 industrial AI camera"
                 className={styles.productImage}
               />
@@ -160,7 +160,7 @@ export default function ICAM540Solution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/factory-quality-inspection.png"
+                src="/img/use-cases/quality-inspection.png"
                 alt="Quality Inspection"
                 className={styles.useCaseImage}
               />
@@ -172,7 +172,7 @@ export default function ICAM540Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/workplace-safety.png"
+                src="/img/use-cases/workplace-safety.png"
                 alt="Safety Monitoring"
                 className={styles.useCaseImage}
               />
@@ -184,7 +184,7 @@ export default function ICAM540Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/pedestrian-monitoring.png"
+                src="/img/use-cases/logistics-automation.png"
                 alt="Logistics Automation"
                 className={styles.useCaseImage}
               />

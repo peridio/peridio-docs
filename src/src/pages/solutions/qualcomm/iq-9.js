@@ -192,7 +192,7 @@ export default function IQ9Solution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/traffic-flow-optimization.png"
+                src="/img/use-cases/traffic-flow-optimization.png"
                 alt="Autonomous Vehicles"
                 className={styles.useCaseImage}
               />
@@ -204,7 +204,7 @@ export default function IQ9Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/workplace-safety.png"
+                src="/img/use-cases/workplace-safety.png"
                 alt="Advanced Manufacturing"
                 className={styles.useCaseImage}
               />
@@ -216,7 +216,7 @@ export default function IQ9Solution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/factory-quality-inspection.png"
+                src="/img/use-cases/factory-quality-inspection.png"
                 alt="Smart City Infrastructure"
                 className={styles.useCaseImage}
               />

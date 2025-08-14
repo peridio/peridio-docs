@@ -100,7 +100,7 @@ export default function RaspberryPiSolution() {
             </div>
             <div className={styles.heroImage}>
               <img
-                src="/img/raspberry-pi.jpg"
+                src="/img/hardware/raspberry-pi/raspberrypi.png"
                 alt="Raspberry Pi development board"
                 className={styles.productImage}
               />
@@ -300,7 +300,7 @@ export default function RaspberryPiSolution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/factory-quality-inspection.png"
+                src="/img/use-cases/quality-Inspection.png"
                 alt="Industrial IoT Sensors"
                 className={styles.useCaseImage}
               />
@@ -312,7 +312,7 @@ export default function RaspberryPiSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/traffic-flow-optimization.png"
+                src="/img/use-cases/traffic-flow-optimization.png"
                 alt="Smart City Infrastructure"
                 className={styles.useCaseImage}
               />
@@ -324,7 +324,7 @@ export default function RaspberryPiSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/environmental-inspection.png"
+                src="/img/use-cases/digital-signage-kiosks.png"
                 alt="Digital Signage"
                 className={styles.useCaseImage}
               />

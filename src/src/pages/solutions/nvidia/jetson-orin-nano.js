@@ -162,7 +162,7 @@ export default function JetsonOrinNanoSolution() {
           <div className={styles.useCaseGrid}>
             <div className={styles.useCase}>
               <img
-                src="/img/pedestrian-monitoring.png"
+                src="/img/use-cases/industrial-smart-cameras.png"
                 alt="Industrial Smart Cameras"
                 className={styles.useCaseImage}
               />
@@ -174,7 +174,7 @@ export default function JetsonOrinNanoSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/traffic-flow-optimization.png"
+                src="/img/use-cases/autonomous-mobile-robots.png"
                 alt="Autonomous Mobile Robots"
                 className={styles.useCaseImage}
               />
@@ -186,7 +186,7 @@ export default function JetsonOrinNanoSolution() {
             </div>
             <div className={styles.useCase}>
               <img
-                src="/img/workplace-safety.png"
+                src="/img/use-cases/edge-iot-gateway.png"
                 alt="Edge AI Gateways"
                 className={styles.useCaseImage}
               />
