@@ -91,7 +91,7 @@ Transform your Seeed reTerminal HMIs into a production fleet. Get deterministic 
 
 **Call to Action Buttons:**
 - Get Started
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 

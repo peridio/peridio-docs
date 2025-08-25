@@ -88,7 +88,7 @@ Transform your NXP FRDM-MCXN947 from development board to production-ready indus
 
 **Call to Action Buttons:**
 - Get Started
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 

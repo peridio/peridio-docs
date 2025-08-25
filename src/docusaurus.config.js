@@ -95,7 +95,7 @@ const config = {
               },
               {
                 label: 'Avocado OS',
-                to: '/integration/linux/introduction',
+                to: '/avocado-os/introduction',
               },
               {
                 label: 'Peridio Core',
@@ -111,7 +111,7 @@ const config = {
               },
               {
                 label: 'Tunnels (Remote Access)',
-                to: '/platform/reference/tunnels',
+                to: '/tunnels/overview',
               },
               {
                 label: 'Webhooks',
@@ -177,7 +177,7 @@ const config = {
               },
               {
                 label: 'Peridio Agent',
-                to: '/integration/linux/agents/peridio-agent',
+                to: '/peridio-core/device-management/agent',
               },
             ],
           },

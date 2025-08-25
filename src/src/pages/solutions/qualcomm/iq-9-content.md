@@ -104,7 +104,7 @@ Transform your Qualcomm IQ-9 into the ultimate edge AI platform for the most dem
 
 **Call to Action Buttons:**
 - Start Premium Demo
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 

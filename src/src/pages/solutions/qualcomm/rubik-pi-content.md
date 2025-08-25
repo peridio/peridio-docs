@@ -88,7 +88,7 @@ Transform your Qualcomm Rubik Pi from development kit to secure, deployable edge
 
 **Call to Action Buttons:**
 - Get Started
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 

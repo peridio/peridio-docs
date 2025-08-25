@@ -88,7 +88,7 @@ Empower your NVIDIA Jetson Orin Nano with production-grade software infrastructu
 
 **Call to Action Buttons:**
 - Get Started
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 

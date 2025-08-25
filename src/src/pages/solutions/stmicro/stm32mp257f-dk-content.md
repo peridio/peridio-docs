@@ -88,7 +88,7 @@ Transform your STMicroelectronics STM32MP257F-DK from development kit to secure,
 
 **Call to Action Buttons:**
 - Get Started
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 

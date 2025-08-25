@@ -104,7 +104,7 @@ Transform your NXP i.MX 8M Plus into a secure, deployable industrial vision plat
 
 **Call to Action Buttons:**
 - Get Started
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 

@@ -88,7 +88,7 @@ Transform your Raspberry Pi prototype into a secure, manageable production fleet
 
 **Call to Action Buttons:**
 - Get Started
-- Visit Avocado Linux
+- Visit Avocado OS
 
 ---
 
